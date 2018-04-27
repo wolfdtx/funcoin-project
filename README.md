@@ -1,0 +1,2 @@
+# funcoin-project
+thanks aqua
